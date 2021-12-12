@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ciclo4.ciclo4.Ciclo4ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.944 s - in ciclo4.ciclo4.Ciclo4ApplicationTests
